@@ -7,3 +7,11 @@ the script grouped_ls.sh:
 * Shows the total number of files
 
 You can use alias gls=/bin/grouped_ls.sh
+
+
+favorite colors
+text console
+#839496
+
+console background
+#1A1F2F
